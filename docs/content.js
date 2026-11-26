@@ -1064,6 +1064,7 @@ window.TPU_RTX_DATA = {
       themeNight: "Dark",
       themeDay: "Light",
       nav: {
+        home: "← Home",
         c1: "Architecture", c2: "Adapters", c3: "Results",
         c4: "Scaling", c5: "Robotics", c6: "Appendix"
       },
@@ -1166,6 +1167,7 @@ window.TPU_RTX_DATA = {
         lead: "Four engineering post-mortems, two rejected renders from earlier pipeline bugs, a workload comparison referencing wenhaochai/rtx-h100, and 23 verifiable metric JSON files.",
         honestHead: "Scope & Hardware Boundaries",
         authorRole: "Author",
+        homeBtn: "Homepage ↗",
         bibBar: "BibTeX · Apache-2.0",
         foldBench: "Benchmark Summary Breakdown (5 Categories)",
         foldPlates: "Full Still Image Index (26 Plates)",
@@ -1248,6 +1250,7 @@ window.TPU_RTX_DATA = {
       themeNight: "深色",
       themeDay: "浅色",
       nav: {
+        home: "← 个人主页",
         c1: "架构", c2: "生态适配", c3: "渲染效果",
         c4: "性能扩展", c5: "具身训练", c6: "复盘与数据"
       },
@@ -1350,6 +1353,7 @@ window.TPU_RTX_DATA = {
         lead: "汇总 4 个已定位并修复的性能与训练问题、2 个早期管线缺陷样本、引用 wenhaochai/rtx-h100 的跨硬件对照表，以及 23 份可下载验证的 JSON 指标记录。",
         honestHead: "实测口径与能力边界",
         authorRole: "作者",
+        homeBtn: "个人主页 ↗",
         bibBar: "BibTeX 引用 · Apache-2.0",
         foldBench: "各模块基准测试分项汇总（5 类）",
         foldPlates: "全量 26 张静态图像索引",
